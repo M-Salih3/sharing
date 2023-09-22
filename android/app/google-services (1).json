@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194277199550",
+    "project_id": "attendance-98cb2",
+    "storage_bucket": "attendance-98cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194277199550:android:6ece772712a5ee7f8518ef",
+        "android_client_info": {
+          "package_name": "com.example.wafyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSw5Lxu_xDO9o11Z5fdrqNB1gMajFPbGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
